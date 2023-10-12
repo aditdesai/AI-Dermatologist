@@ -1,5 +1,5 @@
 skin_cancer_dataset/
-website/static/uploads/
+website/static/uploads/*
 
 *.npy
 *.keras
