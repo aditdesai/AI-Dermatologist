@@ -1,5 +1,6 @@
 skin_cancer_dataset/
 website/static/uploads/*
+!*.md
 
 *.npy
 *.keras
