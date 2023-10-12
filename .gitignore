@@ -1,0 +1,7 @@
+skin_cancer_dataset/
+website/static/uploads/
+
+*.npy
+*.keras
+!model.keras
+test_model.py
